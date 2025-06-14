@@ -1,5 +1,9 @@
 <h2 align="center">👋Hi,I'm Fleurui. </h2><br>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlhdDZvZzBsbDAydXhncTBlNDg0eWZkZXdhdmY4dDQ3czlvNHh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif"/>
+<div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlhdDZvZzBsbDAydXhncTBlNDg0eWZkZXdhdmY4dDQ3czlvNHh6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif"/>
+</div>
+
+
 
 
 
